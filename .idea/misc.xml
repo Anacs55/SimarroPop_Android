@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.298" />
+        <entry key="app/src/main/res/drawable/favorite.xml" value="0.298" />
+        <entry key="app/src/main/res/drawable/heart.xml" value="0.298" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.298" />
+        <entry key="app/src/main/res/drawable/message.xml" value="0.298" />
+        <entry key="app/src/main/res/drawable/search.xml" value="0.298" />
+        <entry key="app/src/main/res/drawable/up.xml" value="0.298" />
+        <entry key="app/src/main/res/drawable/welcome.xml" value="0.298" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_login_wallapop.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.31302083333333336" />
+        <entry key="app/src/main/res/layout/activity_monedero.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/activity_product.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.315625" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/activity_up.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_favorite.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_message.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_up.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/item_list_product.xml" value="0.32708333333333334" />
+        <entry key="app/src/main/res/menu/menu_delete.xml" value="0.328125" />
+        <entry key="app/src/main/res/menu/menu_navigation.xml" value="0.328125" />
+        <entry key="app/src/main/res/menu/menu_profile.xml" value="0.328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
